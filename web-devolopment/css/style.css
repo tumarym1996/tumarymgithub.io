@@ -1,0 +1,58 @@
+.header{
+	font-size: 20px;
+	line-height: 1.5;
+	margin-bottom: 60px auto;
+
+}
+
+.header span{
+	display: block;
+}
+
+
+.container{
+	border: 1px  solid red;
+}
+
+
+.form-header, .section-header{
+	font-size: 24px;
+	font-weight: 900;
+}
+.form{
+	border: 2px solid red;
+	padding: 35px 20px;	
+
+}
+
+.form-header {
+	margin-bottom: 20px;
+}
+
+.form-btn{
+	margin: 10px auto;	
+}
+
+.form input{
+	margin: 10px auto;	
+}
+
+.section{
+	padding: 30px 0;
+}
+
+
+
+.feature img{
+	width: 100px;
+	height: 100px;
+}
+
+
+.feature p{
+
+	margin: 20px auto;
+}
+.feature-box{
+	height: 160px;
+}
